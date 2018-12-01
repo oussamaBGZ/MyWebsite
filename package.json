@@ -1,0 +1,13 @@
+{
+  "name": "PersonalWebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://oussamaBGZ.github.io/MyWebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }
+}
